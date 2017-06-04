@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Matematicas apestan</string>
+    <string name="action_settings">Settings</string>
+    <string name="ingresa_un_numero">Ingresa un numero</string>
+    <string name="ed">%</string>
+    <string name="ingresa_el_porcentaje">Ingresa el porcentaje</string>
+    <string name="_0">0</string>
+    <string name="calcular">Calcular</string>
+    <string name="cual_es_el">Cual es el</string>
+    <string name="de">DE</string>
+</resources>
