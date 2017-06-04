@@ -14,7 +14,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     TextView totalTextView ;
-    EditText ptext;
+    EditText ptext ;
     EditText ntext ;
 
     @Override
